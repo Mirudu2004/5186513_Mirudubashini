@@ -6,3 +6,15 @@
 
 
 
+\## IMAGE
+
+
+!\[Diagram](Agileforbeginners.png)
+
+
+\## PDF
+
+
+
+\[📄 View Report PDF](Simplilearn-GIT.pdf)
+
